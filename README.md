@@ -1,1 +1,1 @@
-"# OpenGL-3D-Fountain" 
+An OpenGL C++ project for my graphics class
